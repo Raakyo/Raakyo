@@ -18,7 +18,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Raakyo-gif" height="210" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880095613423869953/1069728564380958831/Gif-raakyo.gif">
+  <img align="right" alt="Raakyo-gif" height="210" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880095613423869953/1069735798108327976/Raakyo-Gif.gif">
 </div>
   
   ##
