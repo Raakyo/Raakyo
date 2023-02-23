@@ -1,4 +1,4 @@
-### Olá! Sou Ryan Rocha 👋
+### Olá! Sou o Ryan Rocha 👋
 
 
 - 🌱 Eu atualmente estudo ADS, HTML e CSS
