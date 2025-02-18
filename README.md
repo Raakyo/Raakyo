@@ -1,6 +1,6 @@
 # 💫 About Me:
-Eu sou estudante de ADS na Universidade Anhembi Morumbi <br>
-Estudo de forma autonoma JavaScript
+Sou Formado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi <br>
+Estudo de forma autonoma tecnologias um pouco mais focado em back-end no momento.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-r-silva) 
 # 💻 Tech Stack:
